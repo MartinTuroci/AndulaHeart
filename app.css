@@ -14,6 +14,9 @@ body {
   width: 150px;
   height: 150px;
   background: rgb(240, 34, 68);
+  -webkit-box-shadow: 21px 29px 43px 15px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 21px 29px 43px 15px rgba(0, 0, 0, 0.75);
+  box-shadow: 21px 29px 43px 15px rgba(0, 0, 0, 0.75);
   transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
